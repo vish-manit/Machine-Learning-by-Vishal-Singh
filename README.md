@@ -7,7 +7,9 @@ This repository serves as a comprehensive guide and resource for anyone interest
 **Table of Contents**
 
 Introduction
+
 Algorithms
+
 Conclusion
 
 **1. Introduction**
