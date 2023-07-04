@@ -23,16 +23,27 @@ get started and serve as a reference for experienced practitioners.
 The repository currently includes implementations of the following machine learning algorithms:
 
 Linear Regression
+
 Logistic Regression
+
 Decision Trees
+
 Random Forests
+
 Support Vector Machines (SVM)
+
 K-Nearest Neighbors (KNN)
+
 Naive Bayes
+
 K-Fold Cross Validation and GridSearch CV
+
 K-Means Clustering
+
 Regularisation
+
 Principal Component Analysis (PCA)
+
 
 **3. Conclusion**
 
